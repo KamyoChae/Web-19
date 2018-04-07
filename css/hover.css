@@ -1,0 +1,36 @@
+.see-right-ul li a{
+	height: 32px;
+	overflow: hidden;
+
+}
+.see-right-ul a:hover{
+	color: #fff;
+}
+
+.see-left-a p,.see-left-a span{
+	text-align: left;
+}
+.see-left-a:hover span{
+	color: #fff;
+}
+.see-left-a:hover p{
+	color: #ffc6c6;
+}
+
+.a-text span{text-align: left;}
+.news-a:hover{
+	color: #c91c1c;
+}
+.news-ul li{
+	padding: 5px ;
+}
+.news-ul li:hover{
+	color: #c91c1c;
+}
+
+.time-left a:hover div,.time-right ul li a:hover div,.open-list-div ul li:hover div{
+	transform:scale(2);
+	box-shadow: 0 0 20px #000;
+	background: #fff;
+}
+

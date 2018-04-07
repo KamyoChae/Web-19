@@ -1,0 +1,429 @@
+
+/*身体部*/
+
+.body-div{
+	width: 960px;
+	margin: auto;
+}
+/*精神*/
+.soul{
+	margin-top: 20px;
+}
+
+.title-span{
+	display: block;
+	width: 120px;
+	margin-top: 80px ;
+	padding: 5px 25px;
+	font-size: 18px; 
+	border-left: 5px solid #c91c1c;
+}
+.soul-ul{
+	margin: auto;
+	padding: 20px 20px;
+
+}
+.soul-ul li{
+	display: inline-block;
+}
+
+.soul-ul-div{
+	width:180px;
+	border-radius: 5px;
+	padding-bottom: 3px; 
+	box-shadow: 0px 0px 20px #888;
+	margin: 10px;
+}
+.soul-ul-img{
+	display: block;
+	margin-bottom: 10px;
+	width: 100%;
+	height: 90px;
+	background: #bc3b3b;
+	border-radius: 5px 5px 0 0 ;
+}
+
+.text-title,.text{
+	color: #353535;
+	display: block;
+	width: 100%;
+	padding: 5px auto 0px auto;
+	
+}
+.text-title{
+	font-size: 14px;
+	text-align: center;
+}
+.text{
+	color: #888;
+	font-size: 12px;
+	
+	margin:auto;
+	margin-top: 10px;
+	margin-bottom: 10px; 
+	width: 150px;
+}
+
+/*报告*/
+.answer-out,.time-out,.see-out,.soul-out{
+	text-align: center;
+}
+#soul-ul li:hover{
+	transform: scale(2);
+	background-color: #fff;
+	border-radius: 5px;
+}
+
+.news{
+	width: 230px;
+	background: 300px;
+	border: 1px solid  rgba(0,0,0,.2);
+	padding: 20px 15px;
+	text-align: center;
+	border-radius: 5px;
+	margin-left: 30px;
+	margin-top: 50px;
+	display: inline-block;
+
+	box-shadow: 0px 0px 20px #888;
+}
+.news>span{
+	display: block;
+	font-size: 24px;
+	text-align: center;
+	margin-bottom: 15px;
+	color: #c91c1c;
+
+}
+.bottom-line{
+	width: 50px;
+	height: 10px;
+	border-bottom: 2px  solid #c91c1c;
+	display: block;	
+	margin: auto;
+
+}
+.news-ul{
+	margin-top: 15px;
+}
+
+.news-a{
+	color: #666;
+	display: block;
+	margin: 5px;
+}
+
+/*视角*/
+.see{
+	margin-top: 50px;
+}
+
+.see-right-div{
+	border-radius: 5px;
+	box-shadow: 0px 0px 20px #888;
+	margin-top: 20px;
+
+}
+.see-right-img{
+	box-shadow: 0px 0px 20px #888;
+}
+.see-left,.see-right{
+	display: inline-block;
+	width: 380px;
+	height: 500px;
+}
+.see-left{
+	
+	margin: 50px 0px 0 60px;
+
+}
+.see-right{
+	margin:50px 40px 0 60px ;
+
+}
+.left-radius{
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	border-radius: 10px;
+	background-color:#c91c1c;
+	margin-right: 10px;
+}
+.right-line{
+	display: inline-block;
+	width: 100%;
+	border-bottom: 2px solid #c91c1c;
+
+}
+
+.see-left ul{
+	margin-top: 20px;
+	height: 500px;
+	overflow: scroll;
+	border-radius: 5px;
+
+}
+.see-left-a{
+	box-sizing: border-box;
+	display: block;
+	width: 100%;
+	margin: 15px 0;
+	padding: 10px;
+
+}
+.icon{
+	width: 80px;
+	height: 80px;
+	background: #543;
+	border-radius: 100px;
+	display: inline-block;
+	float: left; 
+}
+.a-text{
+	display: inline-block;
+	width: 70%;
+	height: 80px;
+	margin-left: 20px;
+	overflow: hidden;
+}
+.a-text>span{
+	color: #353535;
+}
+.a-text>p{
+	color: #888;
+	font-size: 14px;
+	margin-top: 10px;
+}
+.see-left-a:hover{
+	background: #c91c1c;
+	border-radius: 5px;
+}
+
+
+/*see-right*/
+.see-right{
+	float: left;
+}
+.see-right-top{
+	width: 100%;
+	height: 150px;
+	background: #c91c1c;
+	margin-top: 20px;
+	border-radius: 5px;
+}
+.see-right-img{
+	box-sizing: border-box;
+	width: 100%;
+	height: 100%;
+	padding: 120px 0 0 0 ;
+	border-radius: 5px 5px 0 0 ;
+}
+.right-img-title,.ima-title{
+
+	box-sizing: border-box;
+	display: block;
+	width:100%;
+	background: rgba(0,0,0,.5);
+	color: #fff;
+	overflow: hidden;
+	padding: 4px 20px;
+}
+.see-right-ul{
+	padding: 13px 5px 20px 5px;
+}
+.see-right-ul li a{
+	box-sizing: border-box;
+	display: block;
+	width: 100%;
+	padding: 5px 20px;
+}
+
+.see-right-ul li a:hover{
+
+	background: #c91c1c;
+	border-radius: 5px;
+	
+}
+
+
+/*民生*/
+.time-left{
+	display: inline-block;
+	width: 450px;
+	margin-top: 50px;
+	margin-left: 30px;
+}
+
+.time-left-title{
+	margin-bottom: 20px;
+}
+
+.time-left-top{
+	width: 450px;
+	height:240px;
+	background:#c91c1c;
+}
+.time-left-top>p{
+	display: inline-block;
+	width: 100%;
+	padding: 5px 20px;
+	color: #fff;
+	margin-top: 210px; 
+	background: rgba(0,0,0,.3);
+	overflow: hidden;
+
+}
+
+.border-box{
+	box-sizing: border-box;
+}
+.time-img{
+	border-radius: 5px;
+	background:#c91c1c;
+	box-shadow: 0px 0px 20px #888;
+
+}
+.time-left-mid{
+	width: 220px;
+	height: 150px;
+	display: inline-block;
+	margin:5px 0 0 0;
+}
+.mind2{
+	margin-left: 5px;
+}
+.ima-title{
+	margin-top: 120px;
+}
+.time-left-ul{
+	box-sizing: border-box;
+
+	padding: 5px 0;
+	border-radius: 5px;
+	box-shadow: 0px 0px 20px #888;
+}
+
+.time-more{
+	box-sizing: border-box;
+	display: inline-block;
+	width:100%;
+	border: 1px solid #c91c1c;
+	text-align: center;
+	padding: 10px;
+	color: #c91c1c;
+	font-size: 20px;
+	margin-top: 10px;
+	border-radius: 5px;
+
+}
+.time-more:hover{
+	background:#c91c1c;
+	color: #fff;
+
+}
+
+
+/*国际*/
+.time-right{
+	float: left;
+	width: 360px;
+	margin-top: 50px;
+	margin-left: 60px;
+}
+.time-right-div{
+	width: 360px;
+	margin: 0px;
+}
+
+
+
+/*放映*/
+.open-top{
+	width: 95%;
+	height: 80px;
+	margin: 50px auto 0 auto;
+	text-align: center;
+}
+.open-line{
+	display: inline-block;
+	width: 300px;
+	height: 10px;
+	border-bottom: 2px solid #c91c1c;
+}
+.open-div-title{
+	color: #c91c1c;
+	font-size: 30px;
+	display: inline-block;
+	text-align: center;
+	padding: 5px 30px;
+}
+.open-list-div{
+	width: 95%;
+	margin: 0 auto;
+}
+
+.open-img-div{
+	width: 200px;
+	height: 150px;
+	margin: 10px;
+	border-radius: 5px 5px;
+	box-shadow: 0px 0px 20px #888;
+}
+.open-list-div ul li{
+	display: inline-block;
+}
+.open-img{
+	width:100%;
+	height: 100px;
+	display: block;
+	background: #c91c1c;
+	border-radius: 5px 5px 0 0;
+}
+.open-text{
+	color: #353535;
+	display: inline-block;
+	width: 100%;
+	padding: 10px 0;
+	text-align: center;
+}
+
+/*热议*/
+.talk-div{
+	width: 95%;
+	margin: 50px auto;
+	
+	text-align: center;
+}
+
+.talk-div div{
+	box-shadow: 0px 0px 20px #888;
+	border-radius: 5px;
+
+	box-sizing: border-box;
+	padding-top: 70px;
+}
+.talk-div div:hover{
+	background-color: #c91c1c;
+}
+.talk-div div span{
+	display: block;
+	width: 100%;
+	height: 30px;
+	font-size: 30px;
+	color: #fff;
+}
+.talk-top{
+	width: 100%;
+	height: 180px;
+}
+
+
+.talk-bottom{
+	display: inline-block;
+	width: 49%;
+	height: 180px;
+	margin-top:15px;
+}
+.talk-right{
+	margin-left: 1%;
+}
